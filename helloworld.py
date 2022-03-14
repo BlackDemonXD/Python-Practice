@@ -5,6 +5,7 @@ print (3-1)   #substraction
 print (6/14)  #division
 print (4*8)   #multiplication
 print (9//14) #removes remainder
+print (3%2)   #modulus
 print (9**8)  #exponent
 
 #checking data types
