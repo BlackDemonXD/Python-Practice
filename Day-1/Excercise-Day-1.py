@@ -28,3 +28,4 @@ True          #Boolean
 }
 ('Something', 'Nothing', 'Anything', 'Thing') #Tuple
 {2, 4, 3, 5} #Set
+print((10-12)**2+(8-3)**2)    # Eucledian Distance(2,3)(10,8)
