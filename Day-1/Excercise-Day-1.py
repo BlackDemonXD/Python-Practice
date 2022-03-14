@@ -16,3 +16,15 @@ print(type(4-4j))
 print(type(['Something','Nothing','Again something?']))
 print(type('Bangladesh'))
 print(type('Bruh-PC'))
+#Level-3 (Skipping Level 2 since it's the same)
+10            #Integer
+print(3.6)    #Float
+4j+2          #Complex
+'String'      #String
+True          #Boolean
+[1,2,3,4,5]   #List
+{
+'First name':'Something' #Dictionary
+}
+('Something', 'Nothing', 'Anything', 'Thing') #Tuple
+{2, 4, 3, 5} #Set
