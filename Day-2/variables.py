@@ -11,5 +11,5 @@ is_married = False
 is_true = False
 is_light_on = True
 
-first_name, last_name, full_name, country, age, year, is_married, is_true, is_light_on = 'Ben', 'Dover','Ben Dover', '69', 'False'
+first_name, last_name, full_name, country, age, year, is_married, is_true, is_light_on = 'Ben', 'Dover','Ben Dover', 'deezland', '69', '69420', 'False', 'False', 'True'
 print(first_name, last_name, full_name, country, age, year, is_married, is_true, is_light_on)
