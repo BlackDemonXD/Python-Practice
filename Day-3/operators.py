@@ -29,3 +29,4 @@ print("The Area of the Rectangle is", Area_Rectangle)
 
 print("Perimeter of the Rectangle: ")
 Perimeter_Rectangle = 2(rectangle_base+rectangle_length)
+print("Perimeter of the Rectangle is", Perimeter_Rectangle)
