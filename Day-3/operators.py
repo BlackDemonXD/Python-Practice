@@ -18,3 +18,14 @@ side_c = int(input('c: '))
 
 Perimeter = side_a+side_b+side_c
 print("The Perimeter of the Triangle is", Perimeter)
+
+#Area and Perimeter of a Rectangle
+print("Area of the Rectangle: ")
+rectangle_base = int(input('base: '))
+rectangle_length = int(input('length: '))
+
+Area_Rectangle = rectangle_base*rectangle_length
+print("The Area of the Rectangle is", Area_Rectangle)
+
+print("Perimeter of the Rectangle: ")
+Perimeter_Rectangle = 2(rectangle_base+rectangle_length)
