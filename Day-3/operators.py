@@ -48,3 +48,17 @@ print(float)
 
 num = int(input('number: '))
 print("The number is even:", num%2 == 0)
+print("Float 7/3 is the same as Integer of 2.7:", 7//3 == int(2.7))
+print("Type '10' is equal to 10", type('10') == type(10))
+print("Int of 9.8 is equal to 10", int(9.8) == 10)
+
+#Weekly earnings
+print("Weekly earnings of a person: ")
+Hours = int(input('Hour: '))
+Rate = int(input('Rate of hour: '))
+earnings = Hours*Rate
+print('The weekly earning of the person is', earnings)
+
+Years = int(input('Your age is: '))
+seconds = Years*365*24*60*60
+print("The seconds you have lived:", seconds)
