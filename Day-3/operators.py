@@ -62,3 +62,6 @@ print('The weekly earning of the person is', earnings)
 Years = int(input('Your age is: '))
 seconds = Years*365*24*60*60
 print("The seconds you have lived:", seconds)
+
+for i in range(1, 6):
+    print(i, i ** 0, i ** 1, i ** 2, i ** 3)
